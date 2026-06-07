@@ -1,5 +1,5 @@
 # PHẦN 01 - Giới Thiệu
 
-# PHẦN 02 - Setup môi trường
+# PHẦN 02 - Setup Môi Trường
 
-# PHẦN 03 - Build dự án đầu tiên
+# PHẦN 03 - Build Dự Án Đầu Tiên
