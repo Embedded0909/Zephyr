@@ -1,5 +1,9 @@
-# PHẦN 01 - Giới Thiệu
+## PHẦN 01 - Giới Thiệu
 
-# PHẦN 02 - Setup Môi Trường
+### 1.1 Zephyr là gì?
 
-# PHẦN 03 - Build Dự Án Đầu Tiên
+### 1.2 Ứng dụng
+
+## PHẦN 02 - Setup Môi Trường
+
+## PHẦN 03 - Build Dự Án Đầu Tiên
